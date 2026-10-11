@@ -1,0 +1,17 @@
+{
+    "mode": "take",
+    "take_pos": [
+        1153,
+        966
+    ],
+    "release_pos": [
+        1413,
+        967
+    ],
+    "check_area": {
+        "top": 416,
+        "left": 1073,
+        "width": 420,
+        "height": 550
+    }
+}
