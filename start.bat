@@ -1,4 +1,4 @@
 @echo off
 cd /d "%~dp0"
-python start.py
+python main.py
 if %errorlevel% neq 0 pause
